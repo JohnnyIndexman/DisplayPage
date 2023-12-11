@@ -485,7 +485,7 @@ h1, h2, h3, p, a{
 
     .btn button{
         position: absolute;
-        top: 4350px;
+        top: 4380px;
         z-index: 1;
     }
 
@@ -530,7 +530,7 @@ h1, h2, h3, p, a{
 
     .fb{
         position: absolute;
-        top: 4780px;
+        top: 4870px;
         color: #000;
     }
 
