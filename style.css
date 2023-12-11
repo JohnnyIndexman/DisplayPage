@@ -110,7 +110,7 @@ h1, h2, h3, p, a{
 .leader{
     box-sizing: border-box;
     border: 1px solid #fff;
-    padding: 40px;
+    padding: 20px;
     width: 40%;
     position: absolute;
     top: 890px;
@@ -130,7 +130,7 @@ h1, h2, h3, p, a{
 }
 
 .leader p{
-    line-height: 30px;
+    line-height: 28px;
     color: hsl(0, 0%, 41%);
     font-family: 'Alata';
 }
