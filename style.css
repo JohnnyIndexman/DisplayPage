@@ -77,7 +77,7 @@ nav>h3{
     transform: scale(0,1);
 }
 
-.champ:hover:after{
+.menu a:hover:after{
     width: 100%;
     opacity: 1;
     transform: scale(1,1);
@@ -116,6 +116,8 @@ h1, h2, h3, p, a{
     top: 890px;
     left: 630px;
     background: #fff;
+    height: 300px;
+    align-self: baseline;
 }
 
 .body1{
